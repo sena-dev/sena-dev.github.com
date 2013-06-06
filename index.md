@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: This Is Shendy Adhityani's Personal Blog
+title: Shendy Adhityani's
+tagline: sketch of life
 ---
 {% include JB/setup %}
 
@@ -39,9 +39,9 @@ tagline: This Is Shendy Adhityani's Personal Blog
   </div>
   <div class="span4">
     <h3>About Me</h3>
-    <p>Hai, perkenalkan saya Shendy, selamat datang di website pribadi saya, website ini merupakan
-      tempat saya untuk berbagi informasi, khususnya mengenai komputer, pengalaman dan lainnya.</p>
-    <p>Saya lahir di Bekasi pada 29 Oktober 1988, menyelesaikan pendidikan S1 di Universitas Gunadarma jurusan Sistem Informasi. Skripsi saya membahas mengenai "Penerapan teknologi semantik web &amp; ontologi pada sistem pendataan TKI".</p>
+    <p>Hai, saya Shendy Adhityani (Jakarta,29 Oktober 1988), website ini merupakan tempat saya berbagi informasi, khususnya mengenai ilmu pemrograman dan perancangan sistem.</p>
+    <p>Saya lulusan dari Universitas Gunadarma S1 Sistem Informasi. dengan judul skripsi saya "Web Service dengan Semantic &amp; ontologi pada Pendaftaran TKI".</p>
+    <p>Saya pecinta hewan, khususnya kucing. Nama kucing saya Cipuz Maniez, cipuz kucing jantan yang manis.</p>
   </div>
   <div class="span2">
     <h3>Everywhere</h3>
@@ -50,7 +50,17 @@ tagline: This Is Shendy Adhityani's Personal Blog
       <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
     </p>
     <p>
+      <a href="http://id.linkedin.com/pub/shendy-adhityani/3b/4ba/a97/">
+          <img src="http://www.linkedin.com/img/webpromo/btn_myprofile_160x33.png" width="160" height="33" border="0" alt="View Shendy Adhityani's profile on LinkedIn">
+      </a>
       <!-- <iframe src="//www.facebook.com/plugins/follow.php?href=https%3A%2F%2Fwww.facebook.com%2Fshendy.adit&amp;layout=button_count&amp;show_faces=false&amp;colorscheme=light&amp;font=segoe+ui&amp;width=450&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:21px;" allowTransparency="true"></iframe> -->
+    </p>
+    <p>
+      <!-- Place this code where you want the badge to render. -->
+      <a href="//plus.google.com/111128202033491991799?prsrc=3"
+         rel="publisher" target="_top" style="text-decoration:none;">
+      <img src="//ssl.gstatic.com/images/icons/gplus-32.png" alt="Google+" style="border:0;width:32px;height:32px;"/>
+      </a>
     </p>
   </div>
 </div>
