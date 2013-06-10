@@ -17,7 +17,7 @@
 
     <script src="{{ ASSET_PATH }}/js/main.js"></script>
     <!-- Le styles -->
-    <link href="{{ ASSET_PATH }}/css/2.3.2/bootstrap.css" rel="stylesheet">
+    <link href="{{ ASSET_PATH }}/css/2.3.2/bootstrap_ubuntu.css" rel="stylesheet">
     <link href="{{ ASSET_PATH }}/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
 
     <!-- Le fav and touch icons -->
@@ -30,7 +30,6 @@
   </head>
 
   <body>
-
     <div class="navbar navbar-fixed-top">
       <div class="navbar-inner">
         <div class="container">
@@ -44,16 +43,23 @@
       </div>
     </div>
 
+    <div class="navbar navbar-fixed-bottom">
+      <div class="navbar-inner">
+        <div class="container">
+          
+        </div>
+      </div>
+    </div>
+
     <div class="container">
 
-      <div class="content">
+      <div class="content" style="padding-bottom:90px;">
         {{ content }}
       </div>
 
       <footer>
-        <br/>
-        <center><p class="midf">&copy; {{ site.author.name }} 2013</p></center>
-        <!-- <p>&copy; {{ site.author.name }} 2013
+        <!-- <center><p style="background: white;">&copy; {{ site.author.name }} 2013</p></center>
+        <p>&copy; {{ site.author.name }} 2013
           with help from <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>
           and <a href="http://twitter.github.com/bootstrap/" target="_blank">Twitter Bootstrap</a>
         </p> -->

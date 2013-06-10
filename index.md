@@ -6,7 +6,7 @@ tagline: sketch of life
 {% include JB/setup %}
 
 <div class="row">
-  <div class="span4">
+  <div class="span">
     <div id="slider" class="carousel slide">
       <ol class="carousel-indicators">
         <li data-target="#slider" data-slide-to="0" class="active"></li>
@@ -37,7 +37,9 @@ tagline: sketch of life
       <a class="carousel-control right" href="#slider" data-slide="next">&rsaquo;</a>
     </div>
   </div>
-  <div class="span4">
+</div>
+<div class="row">
+  <div class="span7">
     <h3>About Me</h3>
     <p>Hai, saya Shendy Adhityani (Jakarta,29 Oktober 1988), website ini merupakan tempat saya berbagi informasi, khususnya mengenai ilmu pemrograman dan perancangan sistem.</p>
     <p>Saya lulusan dari Universitas Gunadarma S1 Sistem Informasi. dengan judul skripsi saya "Web Service dengan Semantic &amp; ontologi pada Pendaftaran TKI".</p>
